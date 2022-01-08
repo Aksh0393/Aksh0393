@@ -1,11 +1,8 @@
-### Sharingan 👋
-<br>
-<br>
-
 
 ![Funny](https://qph.fs.quoracdn.net/main-qimg-c395e775ba5b31ac4b96da43e50adcdb-c)
 
-Here are some ideas to get you started:
+
+### Hola!! 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning DSA
