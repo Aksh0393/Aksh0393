@@ -1,7 +1,9 @@
 ### Sharingan 👋
+<br>
+<br>
 
 
-
+![Funny](https://i.pinimg.com/originals/a5/eb/f8/a5ebf82422b6fd840df9d35c25b0166e.jpg)
 
 Here are some ideas to get you started:
 
@@ -18,5 +20,3 @@ Here are some ideas to get you started:
 <img src = "https://github-readme-stats.vercel.app/api?username=Aksh0393">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Aksh0393">
 
-<!--<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwiki.secretgeek.net%2Funbounded-recursion&psig=AOvVaw0vyIarTZnWnuk0RYmiCfqt&ust=1641751811175000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCKjpvaHgovUCFQAAAAAdAAAAABAX">
--->
