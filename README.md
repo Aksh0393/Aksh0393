@@ -3,7 +3,7 @@
 <br>
 
 
-![Funny](https://i.pinimg.com/originals/a5/eb/f8/a5ebf82422b6fd840df9d35c25b0166e.jpg)
+![Funny](https://qph.fs.quoracdn.net/main-qimg-c395e775ba5b31ac4b96da43e50adcdb-c)
 
 Here are some ideas to get you started:
 
