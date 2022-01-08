@@ -1,16 +1,18 @@
-### Hi there 👋
+### Sharingan 👋
 
-<!--
-**Aksh0393/Aksh0393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning DSA
+- 👯 I’m looking to collaborate on WEB 3.0 projects
+- 🤔 I’m looking for help with Blockchain
+- 💬 Ask me about your queries about recursion
+- 📫 How to reach me: [Linkedin Profile](https://www.linkedin.com/in/akshit-thakur-3b20b7155)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: In order to understand recursion.. One must first understand recursion.
+
+<!--<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwiki.secretgeek.net%2Funbounded-recursion&psig=AOvVaw0vyIarTZnWnuk0RYmiCfqt&ust=1641751811175000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCKjpvaHgovUCFQAAAAAdAAAAABAX">
 -->
